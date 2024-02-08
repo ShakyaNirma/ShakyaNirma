@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shakya Nirmani</h1>
-<h3 align="center">Passionate IT Student</h3>
-<img src="https://images.squarespace-cdn.com/content/v1/55ab4afce4b06df5b4612325/612e3ead-1b44-42c4-bea8-827b03a07194/giphy.gif" width="100px">        ***About me ....***
+<h3 align="center">Passionate IT Student</h3> 
+<p><img src="https://images.squarespace-cdn.com/content/v1/55ab4afce4b06df5b4612325/612e3ead-1b44-42c4-bea8-827b03a07194/giphy.gif" width="80px"><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2><img src="https://i.gifer.com/J4o.gif" width="100px"> </p>       ***About me ....***           
 
                         - 👨‍💻 I’m an undergraduate at **SLIIT**
 
@@ -15,7 +15,7 @@
 
   
 <p>
-<img src="https://www.icegif.com/wp-content/uploads/pusheen-icegif-9.gif" width="90px">&nbsp;</p> ***Connect me ...***
+<img src="https://www.icegif.com/wp-content/uploads/pusheen-icegif-9.gif" width="80px">&nbsp;</p> ***Connect me ...***
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                   
 <a href="https://twitter.com/@shaki_nirma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shaki_nirma" height="30" width="40" /></a>
