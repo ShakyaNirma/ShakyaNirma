@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shakya Nirmani</h1>
 <h3 align="center">Passionate IT Student</h3> 
-<p><img src="https://images.squarespace-cdn.com/content/v1/55ab4afce4b06df5b4612325/612e3ead-1b44-42c4-bea8-827b03a07194/giphy.gif" width="80px"><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2><img src="https://i.gifer.com/J4o.gif" width="100px"> </p>       ***About me ....***           
+<p><img src="https://images.squarespace-cdn.com/content/v1/55ab4afce4b06df5b4612325/612e3ead-1b44-42c4-bea8-827b03a07194/giphy.gif" width="80px"><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2></p>       ***About me ....***           
 
                         - 👨‍💻 I’m an undergraduate at **SLIIT**
 
